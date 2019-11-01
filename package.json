@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thiruvikraman Govindarajan <gtvcreations@gmail.com> (github.com/gtvcreations/useragent.css)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nprogress": "^0.2.0",
+    "underscore": "^1.0.0"
+  },
+  "devDependencies": {}
 }
