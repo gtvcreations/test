@@ -4,10 +4,11 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buildjs": "tsc script.ts"
   },
-  "author": "Thiruvikraman Govindarajan <gtvcreations@gmail.com> (github.com/gtvcreations/useragent.css)",
-  "license": "ISC",
+  "author": "Thiruvikraman Govindarajan",
+  "license": "MIT",
   "dependencies": {
     "nprogress": "^0.2.0",
     "underscore": "^1.0.0"
